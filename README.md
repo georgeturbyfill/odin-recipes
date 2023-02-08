@@ -1,2 +1,2 @@
 # odin-recipes
-recipe project for foundation course
+A Collection of my favorite recipes to share with you.
