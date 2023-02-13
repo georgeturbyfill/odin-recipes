@@ -1,0 +1,55 @@
+
+/* index page */
+
+title {
+    color: wheat;
+
+}
+body {
+    background-color: wheat;
+    font-family: "Georgia", "Garamond", "Times New Roman";
+
+    
+}
+
+.header-index {
+    text-align: center;
+    font-size: 50px;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: black;
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.recipelist li{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 300;
+    color: black;
+    list-style-type: none;
+    
+    
+    
+}
+
+div img {
+    height: auto;
+    width: 500px;
+    border: 10px solid black;
+    margin: auto;
+    display: block;
+}
+
+/* page */
+
+.header-page {
+    text-align: center;
+    font-size: 50px;
+}
+
